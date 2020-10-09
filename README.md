@@ -6,11 +6,11 @@
 
 My name is Gybson Klarck, and I'm a student at Escola Técnica Estadual Miguel Batista (ETEMB)
 
-- 👨🏿‍💻 16 years
-- 📍 Recife-PE, Brazil
-- 📚 Currently studying HTML, CSS, JavaScript and React
+👨🏿‍💻 16 years</br>
+📍 Recife-PE, Brazil</br>
+📚 Currently studying HTML, CSS, JavaScript and React
 
 
-> *Technology moves the world*
+> *Technology moves the world* </br>
 > -Steve Jobs
 
