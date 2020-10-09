@@ -1,16 +1,15 @@
-### Hi there 👋
+# 💻Gybson Klarck
+[![Linkedin Badge](https://img.shields.io/badge/-gybsonklarck-7305fa?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gybsonklarck/)](https://www.linkedin.com/in/gybsonklarck/)
+[![Gmail Badge](https://img.shields.io/badge/-gybsonklarck@gmail.com-7305fa?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gybsonklarck@gmail.com)](mailto:gybsonklarck@gmail.com)
 
-<!--
-**SunnyUwU/sunnyuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "I am the best version of me"
 
-Here are some ideas to get you started:
+My name is Gybson Klarck, and I'm a student at Escola Técnica Estadual Miguel Batista (ETEMB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏿‍💻 16 years
+📍 Recife-PE, Brazil
+📚 Currently studying HTML, CSS, JavaScript and React
+
+
+> *Technology moves the world*
+> -Steve Jobs
