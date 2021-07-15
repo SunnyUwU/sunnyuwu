@@ -4,11 +4,11 @@
 
 ### "I am the best version of me"
 
-My name is Gybson Klarck, and I'm a student at Escola Técnica Estadual Miguel Batista (ETEMB)
+My name is Gybson Klarck, and I'm a student of Front-end technology
 
-👨🏿‍💻 16 years</br>
+👨🏿‍💻 17 years</br>
 📍 Recife-PE, Brazil</br>
-📚 Currently studying HTML, CSS, JavaScript and React
+📚 Currently studying HTML, CSS, TypeScript and React
 
 
 > *Technology moves the world* </br>
